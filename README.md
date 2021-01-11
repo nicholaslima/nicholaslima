@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning SOLID,TDD,POO 
-- 🌱 I’m currently Projects: 
+- 🌱 My currently Projects: 
           - weather forecast city 
           - test typing  App
 
