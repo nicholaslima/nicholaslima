@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning SOLID,TDD,POO 
-- 🌱 I’m currently Projects weather forecast city 
+- 🌱 I’m currently Projects: 
+          - weather forecast city 
+          - digitação de teste App
 
 My name is Nicholas Lima from Brazil (🇧🇷).I am Computer Engineer, I ve been studyng a lot about javascript code stack React,Node,React Native but already studied java and PHP 
 ,in my free time I like to workout,travel,listen music and code my applications personal Projects
