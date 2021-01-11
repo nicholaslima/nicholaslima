@@ -12,7 +12,7 @@ Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nichola58915429)](https://twitter.com/nichola58915429)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lima-a360311bb/)](https://www.linkedin.com/in/nicholas-lima-a360311bb/)
- - [ instagram ] (https://www.instagram.com/nicholas.clima/)
+- [Instagram](https://www.instagram.com/nicholas.clima/)
 
 
 [![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=nicholaslima&count_private=true)](https://github.com/nicholaslima)
