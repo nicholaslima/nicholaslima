@@ -12,9 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
-### Hi there! 😁 
-
 My name is Nicholas Lima from Brazil (🇧🇷).I am Computer Engineer, I ve been studyng a lot about javascript code stack React,Node,React Native but already studied java and PHP 
 ,in my free time I like to workout,travel,listen music and code my applications personal Projects
 
