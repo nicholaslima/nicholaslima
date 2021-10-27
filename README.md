@@ -12,8 +12,11 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lima-a360311bb/)](https://www.linkedin.com/in/nicholas-lima-a360311bb/)
 
 
-
-[![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=nicholaslima&count_private=true)](https://github.com/nicholaslima)
+<div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholaslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaslima&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
   
 <div style="display: inline_block"><br>
