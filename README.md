@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Nicholas Lima 👋
 
-- 🌱 I’m currently learning SOLID,TDD,POO 
-- 🌱 My currently Projects: 
-          - weather forecast city 
-          - test typing  App
+- 🌱 I’m currently learning Next
 
-My name is Nicholas Lima from Brazil (🇧🇷). I'm Computer Engineer, I've been studyng a lot about javascript code stack React, Node, React Native but already studied java and PHP, in my free time I like to workout, travel, listen music and code my applications personal Projects
+
+Hello I'm a web developer, I love to solve problems with programming, automating process and make the life more easily, I'm graduated in computer engineer, specialism in HTML, CSS, JavaScript, node and framework React and nextJS, already studied java and PHP, in my free time I like to workout, travel, listen music and code my applications personal Projects.
 
 
 Would you like to find me?
