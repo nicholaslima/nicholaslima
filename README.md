@@ -14,6 +14,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-lima-a360311bb/)](https://www.linkedin.com/in/nicholas-lima-a360311bb/)
 
 
+
 <div align="center">
   <a href="https://github.com/engenny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholaslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,12 +22,25 @@ Would you like to find me?
 </div>
 
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bia-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="bia-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-</div>
+  ### Stacks
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="typescript" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" />   
+</p>
+
+
+### Tools and Utilities
+<p>
+<img src="https://pics.freeicons.io/uploads/icons/png/18579954981556105328-512.png" alt="notion" width="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="50" />
+<img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="postman" width="50" />
+</p>
 
 
