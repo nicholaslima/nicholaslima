@@ -2,6 +2,7 @@
 
 <img height="180em" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47u3c2mk29f21z397rj56n7bddad5g2p8g4deet2ks&rid=200w.webp&ct=g"/>
 
+![GitHub followers](https://img.shields.io/github/followers/nicholaslima?logo=github&style=for-the-badge)
 
 - 🌱 I’m currently learning Next
 
