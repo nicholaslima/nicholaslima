@@ -112,7 +112,7 @@ Hello I'm a web developer, I love to solve problems with programming, automating
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ---
-  ![Snake animation](https://github.com/rafaballerini/nicholaslima/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nicholaslima/nicholaslima/blob/output/github-contribution-grid-snake.svg)
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicholaslima&style=for-the-badge" alt="nicholaslimaimg" /> </p>
 
 
