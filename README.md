@@ -34,33 +34,7 @@ Hello I'm a web developer, I love to solve problems with programming, automating
 
   
 </div>
-  
-  ### 🗄 My projects:
-
-|*|Repo|Description|
-|---|---|---|
-| 📦 | [teams app](https://github.com/nicholaslima/Teams-Foootball) | application to organize football teams |
-| 📦 | [traveler](https://github.com/nicholaslima/traveler) | application to client find best place to travel|
-| 📦 | [startNow](https://github.com/nicholaslima/app-jornada-emprendedora) | application to help students a learn about entrepreneurship|
-| 📦 | [smart text](https://github.com/nicholaslima/smartext-react) | application to test typing velocity|
-| 📦 | [forecast weather](https://github.com/nicholaslima/forecast-weather) | application to verify weather of one city|
-| 📦 | [github explorer](https://github.com/nicholaslima/github_explorer) | application to verify user github repositories|
-
-
-  ### 🗄 My best projects:
-
-<a href="https://github.com/nicholaslima/app-jornada-emprendedora">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nicholaslima&repo=app-jornada-emprendedora&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/nicholaslima/Teams-Foootball">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nicholaslima&repo=Teams-Foootball&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<br/>
-<br/>
-  
-
-  
+ 
 
 ### 🛠️ Skills
 
