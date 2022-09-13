@@ -1,7 +1,5 @@
 ### Hi there, I'm Nicholas Lima 👋
 
- 
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicholas.clima/)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-lima-a360311bb)
 
@@ -18,7 +16,7 @@
 Hello I'm a web developer, I love to solve problems with programming, automating process and make the life more easily, I'm graduated in computer engineer, specialism in HTML, CSS, JavaScript, node and framework React and nextJS.
 
 - 💻 Front-end developer
-- 🌱 I’m currently learning improving Next JS, TDD, SOLID, design pattern.
+- 🌱 I’m currently learning Next JS, TDD, SOLID, design pattern.
 - 📫 How to reach me: nichollas36@hotmail.com
 - 🎓👨‍🎓 Graduated in computer engine
 - 🎓👨‍🎓 learning english reaching fluency
@@ -100,14 +98,7 @@ Hello I'm a web developer, I love to solve problems with programming, automating
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
-### :computer: Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
