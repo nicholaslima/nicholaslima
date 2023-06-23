@@ -14,7 +14,7 @@
 
 </div>
 
-Hello I'm a web developer, I love to solve problems with programming, automating process and make the life more easily, I'm graduated in computer engineer, specialism in HTML, CSS, JavaScript, node and framework React and nextJS.
+Hello I'm a web developer, I love to solve problems with programming, automating process and make the life more easily, I'm graduated in computer engineer, specialism in HTML, CSS, JavaScript, node and framework React and nextJS, I love beautiful ui designs.
 
 - 💻 Front-end developer
 - 🌱 I’m currently learning Next JS, TDD.
