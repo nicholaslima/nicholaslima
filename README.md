@@ -2,8 +2,6 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicholas.clima/)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-lima-a360311bb)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nicholaslima)
-[![dev.to](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nichollas36)
 
 
 
@@ -19,7 +17,7 @@
 Hello I'm a web developer, I love to solve problems with programming, automating process and make the life more easily, I'm graduated in computer engineer, specialism in HTML, CSS, JavaScript, node and framework React and nextJS.
 
 - 💻 Front-end developer
-- 🌱 I’m currently learning Next JS, TDD, SOLID, design pattern.
+- 🌱 I’m currently learning Next JS, TDD.
 - 📫 How to reach me: nichollas36@hotmail.com
 - 🎓👨‍🎓 Graduated in computer engine
 - 🎓👨‍🎓 learning english reaching fluency
