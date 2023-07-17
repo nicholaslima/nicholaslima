@@ -19,7 +19,7 @@ Hello I'm a web developer, I love to solve problems with programming, automating
 - 💻 Front-end developer
 - 🌱 I’m currently learning Next JS, TDD.
 - 📫 How to reach me: nichollas36@hotmail.com
-- 🎓👨‍🎓 Graduated in computer engine
+- 🎓👨‍🎓 Graduated in computer engineer
 - 🎓👨‍🎓 learning english reaching fluency
 - ❤️ interests:  listen to music,  read books,  play video games,workout ,travel and have new experiences.
 
